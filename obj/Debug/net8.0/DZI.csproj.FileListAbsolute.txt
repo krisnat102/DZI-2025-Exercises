@@ -1,0 +1,14 @@
+C:\Users\alcho\source\repos\DZI\DZI\obj\Debug\net8.0\DZI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alcho\source\repos\DZI\DZI\obj\Debug\net8.0\DZI.AssemblyInfoInputs.cache
+C:\Users\alcho\source\repos\DZI\DZI\obj\Debug\net8.0\DZI.AssemblyInfo.cs
+C:\Users\alcho\source\repos\DZI\DZI\obj\Debug\net8.0\DZI.csproj.CoreCompileInputs.cache
+C:\Users\alcho\source\repos\DZI\DZI\bin\Debug\net8.0\DZI.exe
+C:\Users\alcho\source\repos\DZI\DZI\bin\Debug\net8.0\DZI.deps.json
+C:\Users\alcho\source\repos\DZI\DZI\bin\Debug\net8.0\DZI.runtimeconfig.json
+C:\Users\alcho\source\repos\DZI\DZI\bin\Debug\net8.0\DZI.dll
+C:\Users\alcho\source\repos\DZI\DZI\bin\Debug\net8.0\DZI.pdb
+C:\Users\alcho\source\repos\DZI\DZI\obj\Debug\net8.0\DZI.dll
+C:\Users\alcho\source\repos\DZI\DZI\obj\Debug\net8.0\refint\DZI.dll
+C:\Users\alcho\source\repos\DZI\DZI\obj\Debug\net8.0\DZI.pdb
+C:\Users\alcho\source\repos\DZI\DZI\obj\Debug\net8.0\DZI.genruntimeconfig.cache
+C:\Users\alcho\source\repos\DZI\DZI\obj\Debug\net8.0\ref\DZI.dll
