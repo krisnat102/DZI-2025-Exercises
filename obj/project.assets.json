@@ -8,23 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\alcho\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\XI_B\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alcho\\source\\repos\\DZI\\DZI-2025-Exercises\\DZI.csproj",
+      "projectUniqueName": "C:\\Users\\XI_B\\Documents\\GitHub\\DZI-2025-Exercises\\DZI.csproj",
       "projectName": "DZI",
-      "projectPath": "C:\\Users\\alcho\\source\\repos\\DZI\\DZI-2025-Exercises\\DZI.csproj",
-      "packagesPath": "C:\\Users\\alcho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alcho\\source\\repos\\DZI\\DZI-2025-Exercises\\obj\\",
+      "projectPath": "C:\\Users\\XI_B\\Documents\\GitHub\\DZI-2025-Exercises\\DZI.csproj",
+      "packagesPath": "C:\\Users\\XI_B\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\XI_B\\Documents\\GitHub\\DZI-2025-Exercises\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\alcho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\XI_B\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,11 +45,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,12 +61,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
