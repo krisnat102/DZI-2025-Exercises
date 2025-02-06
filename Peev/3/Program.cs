@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-public class Note : IComparable
+/*public class Note : IComparable
 {
     private readonly string values = "A BbB C C#D D#E F#G G#";
     public string Name { get; set; }
@@ -116,7 +116,7 @@ public class Brass : Aerophone
 
 public class Test
 {
-    public static void Main(string[] args)
+    public static void Testing()
     {
         string lines = Console.ReadLine();
         List<Instrument> instruments = new();
@@ -157,6 +157,6 @@ public class Test
             Console.WriteLine(inst);
         }
     }
-}
+}*/
 
 
